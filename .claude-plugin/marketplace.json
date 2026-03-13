@@ -11,8 +11,8 @@
     {
       "name": "qlik-agents",
       "source": {
-        "source": "github",
-        "repo": "Pupfish-LLC/qlik-agents"
+        "source": "url",
+        "url": "https://github.com/Pupfish-LLC/qlik-agents.git"
       },
       "description": "Multi-agent development pipeline for Qlik Sense. 9-phase workflow from requirements through documentation.",
       "version": "0.1.0",
