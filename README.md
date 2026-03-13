@@ -14,12 +14,12 @@ Add this marketplace in Claude Code:
 
 | Plugin | Description |
 |--------|-------------|
-| qlik-dev | Multi-agent development pipeline for Qlik Sense |
+| Qlik Agents | Multi-agent development pipeline for Qlik Sense |
 
 Install a plugin:
 
 ```
-/plugin install qlik-dev@pupfish-plugins
+/plugin install qlik-agents@pupfish
 ```
 
 ## Author

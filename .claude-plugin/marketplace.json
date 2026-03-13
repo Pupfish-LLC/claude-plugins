@@ -1,18 +1,18 @@
 {
-  "name": "pupfish-plugins",
+  "name": "pupfish",
   "owner": {
     "name": "Pupfish, LLC",
-    "email": "stocks.don@gmail.com"
+    "email": "info@pupfish.io"
   },
   "metadata": {
     "description": "Claude Code plugins by Pupfish, LLC"
   },
   "plugins": [
     {
-      "name": "qlik-dev",
+      "name": "qlik-agents",
       "source": {
         "source": "github",
-        "repo": "Pupfish-LLC/qlik-dev"
+        "repo": "Pupfish-LLC/qlik-agents"
       },
       "description": "Multi-agent development pipeline for Qlik Sense. 9-phase workflow from requirements through documentation.",
       "version": "0.1.0",
