@@ -38,6 +38,14 @@ Most Qlik developers will prefer [qlik-toolkit](https://github.com/Pupfish-LLC/q
 
 Install: `/plugin install qlik-agents@pupfish`
 
+## Migrating from `pupfish-qlik`
+
+The `pupfish-qlik` plugin was renamed to `qlik-toolkit` in 0.2.0. The plugin content is identical; only the name changed. If you have `pupfish-qlik` installed, the marketplace no longer lists it (so the Update button will not appear). To switch:
+
+1. Re-sync this marketplace (Personal plugins → **+** → **Create plugin → Add marketplace**, enter `Pupfish-LLC/claude-plugins`, click **Sync**). Or from the CLI: `/plugin marketplace update`.
+2. Uninstall the old plugin: `/plugin uninstall pupfish-qlik` (or remove it via the GUI).
+3. Install the renamed plugin: `/plugin install qlik-toolkit@pupfish`.
+
 ## Author
 
 [Pupfish Analytics](https://pupfish.io)
