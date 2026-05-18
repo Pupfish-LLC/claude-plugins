@@ -15,7 +15,7 @@
         "url": "https://github.com/Pupfish-LLC/pupfish-qlik.git"
       },
       "description": "Qlik Sense development plugin for Claude Code: 12 skills, 7 specialist agents, and a syntax-validation hook. Distilled from years of Qlik consulting.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "author": {
         "name": "Pupfish, LLC"
       },
