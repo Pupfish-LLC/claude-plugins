@@ -1,6 +1,6 @@
 # Pupfish Plugins
 
-Claude Code plugin marketplace by Pupfish, LLC.
+Claude Code plugin marketplace by [Pupfish, LLC](https://pupfish.io).
 
 ## Installation
 
@@ -27,4 +27,4 @@ Claude Code plugin marketplace by Pupfish, LLC.
 
 ## Author
 
-Pupfish, LLC — [pupfish.io](https://pupfish.io)
+[Pupfish, LLC](https://pupfish.io)
