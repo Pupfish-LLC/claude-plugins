@@ -4,13 +4,12 @@ Claude Code plugin marketplace by Pupfish, LLC.
 
 ## Installation
 
-### From the Claude Code UI
+### From the Claude Code desktop UI
 
-1. In Claude Code, click the **+** button for **More Options**, then click **Add plugins**.
-2. Go to the **Personal** tab.
-3. Click the **+** button and select **Add marketplace from GitHub**.
-4. Enter: `Pupfish-LLC/claude-plugins`
-5. Browse the available plugins and install what you need.
+1. In the left sidebar under **Personal plugins**, click the **+** button.
+2. Choose **Create plugin → Add marketplace**.
+3. In the URL field, enter `Pupfish-LLC/claude-plugins`, then click **Sync**.
+4. Once the marketplace is synced, click the **+** button again and choose **Browse plugins** to install any of the plugins below.
 
 ### From the command line
 
