@@ -16,15 +16,15 @@ Claude Code plugin marketplace by Pupfish, LLC.
 
 ```
 /plugin marketplace add Pupfish-LLC/claude-plugins
-/plugin install qlik-agents@pupfish
+/plugin install pupfish-qlik@pupfish
 ```
 
 ## Available Plugins
 
 | Plugin | Description |
 |--------|-------------|
-| Qlik Agents | Multi-agent development pipeline for Qlik Sense |
 | Pupfish Qlik | Qlik Sense development plugin: 12 skills, 7 specialist agents, syntax-validation hook |
+| Qlik Agents | Regimented 9-phase development pipeline for Qlik Sense (most users should prefer pupfish-qlik) |
 
 ## Author
 
