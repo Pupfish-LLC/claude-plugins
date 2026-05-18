@@ -27,7 +27,7 @@
         "source": "url",
         "url": "https://github.com/Pupfish-LLC/qlik-agents.git"
       },
-      "description": "Regimented 9-phase development pipeline for Qlik Sense — requirements through documentation. Structured workflow with strict phase gates; most users should prefer pupfish-qlik for ad-hoc work.",
+      "description": "Regimented 9-phase development pipeline for Qlik Sense, requirements through documentation. Structured workflow with strict phase gates. Most users should prefer pupfish-qlik for ad-hoc work.",
       "version": "0.1.0",
       "author": {
         "name": "Pupfish, LLC"
