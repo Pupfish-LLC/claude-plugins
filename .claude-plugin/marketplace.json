@@ -15,7 +15,7 @@
         "url": "https://github.com/Pupfish-LLC/qlik-toolkit.git"
       },
       "description": "Make Claude Code fluent in Qlik Sense. Install once and Claude becomes a Qlik developer you can delegate to, with deep platform knowledge, specialist agents for different tasks, and an automatic syntax check on every script.",
-      "version": "0.3.1",
+      "version": "0.4.0",
       "author": {
         "name": "Pupfish Analytics"
       },
