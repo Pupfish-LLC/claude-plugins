@@ -38,6 +38,17 @@ Most Qlik developers will prefer [qlik-toolkit](https://github.com/Pupfish-LLC/q
 
 Install: `/plugin install qlik-agents@pupfish`
 
+### [model-picker](https://github.com/Pupfish-LLC/model-picker)
+
+Use the right Claude model for the job. Ask Claude which model and effort level a piece of work needs, from Haiku 5.5 to Fable 5.2, and get one clear pick with the reason behind it.
+
+- One skill that matches a task to a model and effort level, based on the stakes, the kind of work and how you pay for Claude
+- The published evidence behind each pick, with sources and dates
+- 8 ready-made agent files for Claude Code, installed only when you ask, plus a way to verify which model each agent really ran on
+- Updated when Anthropic releases or changes a model
+
+Install: `/plugin install model-picker@pupfish`
+
 ## Migrating from `pupfish-qlik`
 
 The `pupfish-qlik` plugin was renamed to `qlik-toolkit` in 0.2.0. The plugin content is identical; only the name changed. If you have `pupfish-qlik` installed, the marketplace no longer lists it (so the Update button will not appear). To switch:
