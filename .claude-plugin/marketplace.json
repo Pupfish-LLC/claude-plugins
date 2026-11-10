@@ -41,11 +41,11 @@
         "url": "https://github.com/Pupfish-LLC/model-picker.git"
       },
       "description": "Use the right Claude model for the job. Ask Claude which model and effort level a piece of work needs, from Haiku 5.5 to Fable 5.2, and get one clear pick with the reason behind it. Includes ready-made agent files for Claude Code. Updated when Anthropic releases or changes a model.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Pupfish Analytics"
       },
-      "license": "Proprietary"
+      "license": "Apache-2.0"
     }
   ]
 }
